@@ -1,0 +1,10 @@
+Sistema de Gestión Académica (SGA-DO)
+Este es mi proyecto final para el diplomado de programación de la UCV. El sistema está hecho para ayudar a DiplomadosOnline.com a dejar de usar hojas de Excel compartidas y manejar la información de los alumnos de forma segura.
+
+📁 ¿Cómo están organizadas mis carpetas?
+Separé el repositorio en cuatro carpetas para mantener cada entrega ordenada:
+
+/Docs: Aquí guardo mis informes en PDF y el Diagrama de Clases UML.
+/Python: Codigo funcional del programa en lenguaje Python que guarda todo en archivos .txt.
+/Java: Código migrado y funcional en Lenguaje Java.
+/Cpp: Código migrado y funcional en Lenguaje C++.
